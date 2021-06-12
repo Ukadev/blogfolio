@@ -1,0 +1,19 @@
+.size19 {
+    font-size: 19px;
+}
+
+.green {
+    color: forestgreen;
+}
+
+.red {
+    color: darkred;
+}
+
+.grey {
+    color: grey;
+}
+
+.statusIcon {
+    cursor: pointer;
+}
